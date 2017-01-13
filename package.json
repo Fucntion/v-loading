@@ -1,0 +1,11 @@
+{
+  "name": "v-loading",
+  "version": "0.0.1",
+  "description": "vue的傻瓜loading",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "function",
+  "license": "ISC"
+}
